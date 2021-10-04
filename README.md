@@ -10,3 +10,6 @@ I mainly agree with the article. I think that the CS interview preparation nowad
 
 ### Additional thoughts by Thomas Huang (thomashuang02): 
 I find it interesting that the "cheating mode" (wherein applicants find interview questions already online and solve them beforehand) raises the bar of interviews, and that some companies are consciously combating and addressing or circumventing the LeetCode issue. Nevertheless, I've only recently begun LeetCoding and have wished I started earlier; developing brain-muscle memory, whether it be for certain breeds of algorithms or for the syntax of several coding languages, is something that will benefit me in the short- and long-run. 
+
+### Susan Liu(sl6994)'s Comment:
+I found it that it is interesting to see if you are trying to solve 1000 problems on leetcode, it would take approximately 2 years to do that. Because I am planning on doing 3 problems for a day, and I realize that it would take me 4.5 hours. Also I never thought that leetcode would be considered as a "cheating". I love this app since it provides me with various of practice and I believe that without these practicing I would never be this proficient with algorithm.
